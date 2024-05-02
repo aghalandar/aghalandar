@@ -5,7 +5,7 @@ import { headerLinks } from "./data";
 const Header = () => {
   return (
     <nav className="w-full flex py-3 items-center navbar sm:px-16 ss:px-8 px-2 border-b-2 border-[#c1d0dc] ">
-      <div className="flex md:px-40 sm:px-4 px-2 xl:pl-24">
+      <div className="flex md:px-40 sm:px-4 px-2 xl:pl-22">
         <NavLink to="/" className="flex sm:px-16 md:px-8 px-8 xl:px-40">
           <h2 className="text-[#5E7E97] sm:text-[45px] xl:text-[40px] font-playfair text-[24px] font-semibold leading-[120%] mt-4">
             Ali Ghalandari
