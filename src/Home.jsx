@@ -3,7 +3,7 @@ import Banner from "./Banner";
 import styles from "./styles";
 
 const Home = () => (
-  <div className="w-full bg-white overflow-hidden">
+  <div className="w-full bg-white overflow-hidden ">
     <div className={`${styles.flexStart} `}>
       <div className={` ${styles.boxWidth}`}>
         <Banner />

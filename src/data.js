@@ -88,6 +88,6 @@ export const contactInfo = [
   },
   {
     id: "email",
-    email: "email: alirgh90@gmail.com",
+    email: "Email: alirgh90@gmail.com",
   },
 ];

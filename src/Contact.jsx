@@ -1,7 +1,7 @@
 import { contactInfo } from "./data";
 const Contact = () => {
   return (
-    <div className="flex flex-col h-[90vh] justify-start pt-12 w-full bg-[#e2e8f0] gap-8 items-start sm:px-56 px-8">
+    <div className="flex flex-col h-[90vh] justify-start pt-12 w-full bg-[#e2e8f0] gap-8 items-start sm:px-56 px-8 xl:pl-72">
       <h2 className="text-[#577790] sm:text-[40px] font-playfair text-[28px] font-semibold leading-[120%] mt-4 ">
         Contact Information
       </h2>

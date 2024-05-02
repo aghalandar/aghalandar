@@ -6,7 +6,7 @@ import cv from "./CV.pdf";
 import { bannerAboutMe } from "./data";
 import { faEnvelope, faNewspaper } from "@fortawesome/free-regular-svg-icons";
 const Banner = () => (
-  <div className="flex flex-col md:flex-row items-center justify-center w-full bg-[#e2e8f0] gap-0 py-8">
+  <div className="flex flex-col md:flex-row items-center justify-center w-full bg-[#e2e8f0] gap-0 py-8 h-[90vh]" >
     <div className="flex flex-col items-center sm:py-2 py-0 md:w-[30%] w-full ">
       <img
         src={avatar}
