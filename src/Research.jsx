@@ -1,6 +1,6 @@
 import { articles } from "./data";
 const Research = () => (
-  <div className="flex sm:flex-row flex-col py-8 justify-center items-center w-full bg-[#e2e8f0] gap-24 px-8 h-[90vh]">
+  <div className="flex sm:flex-row flex-col py-8 justify-center items-center w-full bg-[#e2e8f0] gap-24 px-8 xl:h-[90vh]">
     <h2 className="text-[#577790] sm:text-[40px] font-playfair text-[32px] font-semibold leading-[120%] mt-4 ">
       Research
     </h2>
