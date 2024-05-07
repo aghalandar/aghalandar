@@ -9,7 +9,7 @@ export const headerLinks = [
   },
 ];
 export const bannerAboutMe =
-  " As a Ph.D. in Finance specializing in empirical asset pricing and investments, my research analyzes investor behavior and decision-making within the U.S. equities market. The primary objective is to identify the key factors that shape investors' trading decisions, offering valuable insights to both academic researchers and industry professionals. Combining expertise in quantitative modeling, empirical asset pricing, portfolio analysis, factor analysis, and programming skills in Python, SQL, SAS, and STATA, I employ robust data analysis techniques to enhance our understanding of market dynamics and asset price formation.";
+  " I am a Ph.D. in Finance specializing in empirical asset pricing and investments; my research analyzes investor behavior and decision-making within the U.S. equities market. The primary objective is to identify the key factors that shape investors' trading decisions, offering valuable insights to both academic researchers and industry professionals. Combining expertise in quantitative modeling, empirical asset pricing, portfolio analysis, factor analysis, and programming skills in Python, SQL, SAS, and STATA, I employ robust data analysis techniques to enhance our understanding of market dynamics and asset price formation.";
 
 export const articles = [
   {
