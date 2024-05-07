@@ -9,7 +9,7 @@ export const headerLinks = [
   },
 ];
 export const bannerAboutMe =
-  "I am a research assistant, where I am pursuing my Ph.D. in Finance. My research fields lie in the areas of investments and empirical asset pricing, and I have over 6 years of experience in the financial market as a quantitative analyst and market research analyst. I have developed strong analytical skills and a deep understanding of capital markets and portfolio management through my academic and professional projects. I have extensive experience in programming languages, such as Python, MATLAB, SQL, SAS, and STATA, and I use them to perform data cleaning, visualization, gathering, and analysis. I also apply advanced statistical models, econometrics, machine learning, and empirical inference techniques to test hypotheses, conduct literature reviews, and produce reports for managerial decisions and strategic planning.";
+  " As a Ph.D. in Finance specializing in empirical asset pricing and investments, my research analyzes investor behavior and decision-making within the U.S. equities market. The primary objective is to identify the key factors that shape investors' trading decisions, offering valuable insights to both academic researchers and industry professionals. Combining expertise in quantitative modeling, empirical asset pricing, portfolio analysis, factor analysis, and programming skills in Python, SQL, SAS, and STATA, I employ robust data analysis techniques to enhance our understanding of market dynamics and asset price formation.";
 
 export const articles = [
   {
